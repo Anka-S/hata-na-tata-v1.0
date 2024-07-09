@@ -1,0 +1,20 @@
+body {
+    display: block;
+    margin: 20px;
+}
+h1 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+nav {
+        text-align: center;
+
+}
+.about-block {
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    width: 60%;
+}
