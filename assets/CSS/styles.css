@@ -7,11 +7,10 @@ body {
     monospace;
 }
 header {
- background-image: url("../images/file.png");
+ background-image: url("../images/rushnyk.jpeg");
  width: 100%;
  height: 500px;
  background-size: cover;
- 
 }
 
 h1, h2 {
