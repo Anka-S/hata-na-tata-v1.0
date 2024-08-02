@@ -45,6 +45,14 @@ nav > a {
 nav > a:hover {
 	color: silver;
 }
+
+main {
+    background-color: lightblue;
+    /* Make main element take up any surplus space to push footer down */
+    flex: 1 0 auto;
+    margin-top: 47px;
+}
+
 .text-center {
     text-align: center;
     margin: 20px;
@@ -102,7 +110,6 @@ footer > p {
 }
 .flex-right{
   order: 1;
-  display: block;
   align-items: flex-end;
   justify-content: flex-end;
 
